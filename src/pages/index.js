@@ -1,0 +1,12 @@
+export { default as Home } from "./Home";
+export { default as Connect } from "./Connect";
+export { default as Explore } from "./Explore";
+export { default as About } from "./About";
+export { default as AllRecipes } from "./AllRecipes";
+export { default as Breakfast } from "./Breakfast";
+export { default as Lunch } from "./Lunch";
+export { default as Dinner } from "./Dinner";
+export { default as Snacks } from "./Snacks";
+export { default as Teatime } from "./Teatime";
+export { default as Search } from "./Search";
+export { default as recipeDetails } from "./RecipeDetails";
